@@ -69,6 +69,10 @@ python3 main.py titansoft titansoft_mlp ../log/DeepSAD/titansoft ../data --ratio
 ```
 
 ```
+ python3 measueAUC_pool.py ../log/DeepSAD/titansoft 
+```
+
+```
 eval time:  0.25827789306640625
 roc_auc_score 0.6171732584282652
 ===best===
