@@ -1,5 +1,17 @@
 # titansoft_deep_sad
 
+This Reop. is fork from [Deep SAD](https://github.com/lukasruff/Deep-SAD-PyTorch)
+
+## modify
+```
+        modified:   src/baseline_ocsvm.py
+        modified:   src/baseline_ssad.py
+        modified:   src/datasets/main.py
+        modified:   src/main.py
+        modified:   src/networks/main.py
+
+```
+
 ## Ocsvm
 
 ```shell
