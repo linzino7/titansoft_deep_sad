@@ -1,0 +1,1 @@
+{"dataset_name": "titansoft", "xp_path": "../log/ocsvm/titansoft", "data_path": "../data", "load_config": null, "load_model": null, "ratio_known_normal": 0.0, "ratio_known_outlier": 0.0, "ratio_pollution": 0.0, "seed": 0, "kernel": "rbf", "nu": 0.1, "hybrid": false, "load_ae": null, "n_jobs_dataloader": 0, "normal_class": 0, "known_outlier_class": 0, "n_known_outlier_classes": 0}

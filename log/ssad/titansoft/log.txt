@@ -1,0 +1,113 @@
+2022-10-29 14:50:02,124 - root - INFO - Log file is ../log/ssad/titansoft/log.txt.
+2022-10-29 14:50:02,124 - root - INFO - Data path is ../data.
+2022-10-29 14:50:02,124 - root - INFO - Export path is ../log/ssad/titansoft.
+2022-10-29 14:50:02,124 - root - INFO - Dataset: titansoft
+2022-10-29 14:50:02,125 - root - INFO - Normal class: 0
+2022-10-29 14:50:02,125 - root - INFO - Ratio of labeled normal train samples: 0.00
+2022-10-29 14:50:02,125 - root - INFO - Ratio of labeled anomalous samples: 0.00
+2022-10-29 14:50:02,125 - root - INFO - Pollution ratio of unlabeled train data: 0.00
+2022-10-29 14:50:02,125 - root - INFO - Number of known anomaly classes: 0
+2022-10-29 14:50:02,125 - root - INFO - SSAD kernel: rbf
+2022-10-29 14:50:02,125 - root - INFO - Kappa-paramerter: 1.00
+2022-10-29 14:50:02,125 - root - INFO - Hybrid model: False
+2022-10-29 14:50:02,125 - root - INFO - Computation device: cpu
+2022-10-29 14:50:02,125 - root - INFO - Number of dataloader workers: 0
+2022-10-29 14:50:18,011 - root - INFO - Log file is ../log/ssad/titansoft/log.txt.
+2022-10-29 14:50:18,011 - root - INFO - Data path is ../data.
+2022-10-29 14:50:18,012 - root - INFO - Export path is ../log/ssad/titansoft.
+2022-10-29 14:50:18,012 - root - INFO - Dataset: titansoft
+2022-10-29 14:50:18,012 - root - INFO - Normal class: 0
+2022-10-29 14:50:18,012 - root - INFO - Ratio of labeled normal train samples: 0.00
+2022-10-29 14:50:18,012 - root - INFO - Ratio of labeled anomalous samples: 0.00
+2022-10-29 14:50:18,012 - root - INFO - Pollution ratio of unlabeled train data: 0.00
+2022-10-29 14:50:18,012 - root - INFO - Number of known anomaly classes: 0
+2022-10-29 14:50:18,012 - root - INFO - SSAD kernel: rbf
+2022-10-29 14:50:18,012 - root - INFO - Kappa-paramerter: 1.00
+2022-10-29 14:50:18,012 - root - INFO - Hybrid model: False
+2022-10-29 14:50:18,013 - root - INFO - Set seed to 0.
+2022-10-29 14:50:18,013 - root - INFO - Computation device: cpu
+2022-10-29 14:50:18,013 - root - INFO - Number of dataloader workers: 0
+2022-10-29 14:53:16,377 - root - INFO - Log file is ../log/ssad/titansoft/log.txt.
+2022-10-29 14:53:16,377 - root - INFO - Data path is ../data.
+2022-10-29 14:53:16,377 - root - INFO - Export path is ../log/ssad/titansoft.
+2022-10-29 14:53:16,377 - root - INFO - Dataset: titansoft
+2022-10-29 14:53:16,377 - root - INFO - Normal class: 0
+2022-10-29 14:53:16,377 - root - INFO - Ratio of labeled normal train samples: 0.00
+2022-10-29 14:53:16,377 - root - INFO - Ratio of labeled anomalous samples: 0.00
+2022-10-29 14:53:16,377 - root - INFO - Pollution ratio of unlabeled train data: 0.00
+2022-10-29 14:53:16,377 - root - INFO - Number of known anomaly classes: 0
+2022-10-29 14:53:16,377 - root - INFO - SSAD kernel: rbf
+2022-10-29 14:53:16,377 - root - INFO - Kappa-paramerter: 1.00
+2022-10-29 14:53:16,377 - root - INFO - Hybrid model: False
+2022-10-29 14:53:16,378 - root - INFO - Set seed to 0.
+2022-10-29 14:53:16,378 - root - INFO - Computation device: cpu
+2022-10-29 14:53:16,378 - root - INFO - Number of dataloader workers: 0
+2022-10-29 14:54:54,175 - root - INFO - Log file is ../log/ssad/titansoft/log.txt.
+2022-10-29 14:54:54,175 - root - INFO - Data path is ../data.
+2022-10-29 14:54:54,175 - root - INFO - Export path is ../log/ssad/titansoft.
+2022-10-29 14:54:54,175 - root - INFO - Dataset: titansoft
+2022-10-29 14:54:54,175 - root - INFO - Normal class: 0
+2022-10-29 14:54:54,175 - root - INFO - Ratio of labeled normal train samples: 0.00
+2022-10-29 14:54:54,175 - root - INFO - Ratio of labeled anomalous samples: 0.00
+2022-10-29 14:54:54,175 - root - INFO - Pollution ratio of unlabeled train data: 0.00
+2022-10-29 14:54:54,175 - root - INFO - Number of known anomaly classes: 0
+2022-10-29 14:54:54,175 - root - INFO - SSAD kernel: rbf
+2022-10-29 14:54:54,175 - root - INFO - Kappa-paramerter: 1.00
+2022-10-29 14:54:54,176 - root - INFO - Hybrid model: False
+2022-10-29 14:54:54,176 - root - INFO - Set seed to 0.
+2022-10-29 14:54:54,176 - root - INFO - Computation device: cpu
+2022-10-29 14:54:54,176 - root - INFO - Number of dataloader workers: 0
+2022-10-29 15:00:43,309 - root - INFO - Log file is ../log/ssad/titansoft/log.txt.
+2022-10-29 15:00:43,309 - root - INFO - Data path is ../data.
+2022-10-29 15:00:43,309 - root - INFO - Export path is ../log/ssad/titansoft.
+2022-10-29 15:00:43,309 - root - INFO - Dataset: titansoft
+2022-10-29 15:00:43,309 - root - INFO - Normal class: 0
+2022-10-29 15:00:43,309 - root - INFO - Ratio of labeled normal train samples: 0.00
+2022-10-29 15:00:43,309 - root - INFO - Ratio of labeled anomalous samples: 0.00
+2022-10-29 15:00:43,309 - root - INFO - Pollution ratio of unlabeled train data: 0.00
+2022-10-29 15:00:43,309 - root - INFO - Number of known anomaly classes: 0
+2022-10-29 15:00:43,309 - root - INFO - SSAD kernel: rbf
+2022-10-29 15:00:43,309 - root - INFO - Kappa-paramerter: 1.00
+2022-10-29 15:00:43,309 - root - INFO - Hybrid model: False
+2022-10-29 15:00:43,310 - root - INFO - Set seed to 0.
+2022-10-29 15:00:43,310 - root - INFO - Computation device: cpu
+2022-10-29 15:00:43,310 - root - INFO - Number of dataloader workers: 0
+2022-10-29 15:02:19,775 - root - INFO - Log file is ../log/ssad/titansoft/log.txt.
+2022-10-29 15:02:19,775 - root - INFO - Data path is ../data.
+2022-10-29 15:02:19,775 - root - INFO - Export path is ../log/ssad/titansoft.
+2022-10-29 15:02:19,775 - root - INFO - Dataset: titansoft
+2022-10-29 15:02:19,776 - root - INFO - Normal class: 0
+2022-10-29 15:02:19,776 - root - INFO - Ratio of labeled normal train samples: 0.00
+2022-10-29 15:02:19,776 - root - INFO - Ratio of labeled anomalous samples: 0.00
+2022-10-29 15:02:19,776 - root - INFO - Pollution ratio of unlabeled train data: 0.00
+2022-10-29 15:02:19,776 - root - INFO - Number of known anomaly classes: 0
+2022-10-29 15:02:19,776 - root - INFO - SSAD kernel: rbf
+2022-10-29 15:02:19,776 - root - INFO - Kappa-paramerter: 1.00
+2022-10-29 15:02:19,776 - root - INFO - Hybrid model: False
+2022-10-29 15:02:19,777 - root - INFO - Set seed to 0.
+2022-10-29 15:02:19,777 - root - INFO - Computation device: cpu
+2022-10-29 15:02:19,777 - root - INFO - Number of dataloader workers: 0
+2022-10-29 15:28:03,689 - root - INFO - Log file is ../log/ssad/titansoft/log.txt.
+2022-10-29 15:28:03,690 - root - INFO - Data path is ../data.
+2022-10-29 15:28:03,690 - root - INFO - Export path is ../log/ssad/titansoft.
+2022-10-29 15:28:03,690 - root - INFO - Dataset: titansoft
+2022-10-29 15:28:03,690 - root - INFO - Normal class: 0
+2022-10-29 15:28:03,690 - root - INFO - Ratio of labeled normal train samples: 0.00
+2022-10-29 15:28:03,690 - root - INFO - Ratio of labeled anomalous samples: 0.00
+2022-10-29 15:28:03,690 - root - INFO - Pollution ratio of unlabeled train data: 0.00
+2022-10-29 15:28:03,690 - root - INFO - Number of known anomaly classes: 0
+2022-10-29 15:28:03,690 - root - INFO - SSAD kernel: rbf
+2022-10-29 15:28:03,690 - root - INFO - Kappa-paramerter: 1.00
+2022-10-29 15:28:03,690 - root - INFO - Hybrid model: False
+2022-10-29 15:28:03,691 - root - INFO - Set seed to 0.
+2022-10-29 15:28:03,691 - root - INFO - Computation device: cpu
+2022-10-29 15:28:03,691 - root - INFO - Number of dataloader workers: 0
+2022-10-29 15:28:03,805 - root - INFO - Starting training...
+2022-10-29 15:31:17,644 - root - INFO -   | Model 01/10 | Gamma: 0.00781250 | Train Time: 191.197s | Val AUC: 44.75 |
+2022-10-29 15:34:53,851 - root - INFO -   | Model 02/10 | Gamma: 0.01562500 | Train Time: 213.776s | Val AUC: 44.80 |
+2022-10-29 15:38:31,127 - root - INFO -   | Model 03/10 | Gamma: 0.03125000 | Train Time: 214.783s | Val AUC: 44.89 |
+2022-10-29 15:42:21,546 - root - INFO -   | Model 04/10 | Gamma: 0.06250000 | Train Time: 227.934s | Val AUC: 44.94 |
+2022-10-29 15:47:08,252 - root - INFO -   | Model 05/10 | Gamma: 0.12500000 | Train Time: 284.066s | Val AUC: 45.13 |
+2022-10-29 15:52:01,828 - root - INFO -   | Model 06/10 | Gamma: 0.25000000 | Train Time: 291.086s | Val AUC: 46.65 |
+2022-10-29 15:56:29,510 - root - INFO -   | Model 07/10 | Gamma: 0.50000000 | Train Time: 265.148s | Val AUC: 50.40 |
+2022-10-29 16:00:16,672 - root - INFO -   | Model 08/10 | Gamma: 1.00000000 | Train Time: 224.721s | Val AUC: 61.77 |
