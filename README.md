@@ -6,11 +6,23 @@ This Reop. is fork from [Deep SAD](https://github.com/lukasruff/Deep-SAD-PyTorch
 ```
         modified:   src/baseline_ocsvm.py
         modified:   src/baseline_ssad.py
+        new file:   src/base/titansoft_dataset.py
         modified:   src/datasets/main.py
+        new file:   src/datasets/titansoft.py
         modified:   src/main.py
         modified:   src/networks/main.py
 
+
 ```
+
+## preprosess
+
+```
+python3 titansoft_deep_sad.py
+```
+
+##
+Please put preprocessed data to data/titansoft/
 
 ## Ocsvm
 
