@@ -4,11 +4,12 @@ This Reop. is fork from [Deep SAD](https://github.com/lukasruff/Deep-SAD-PyTorch
 
 ## modify
 ```
+        new file:   src/base/titansoft_dataset.py
+        new file:   src/datasets/titansoft.py
+        
         modified:   src/baseline_ocsvm.py
         modified:   src/baseline_ssad.py
-        new file:   src/base/titansoft_dataset.py
         modified:   src/datasets/main.py
-        new file:   src/datasets/titansoft.py
         modified:   src/main.py
         modified:   src/networks/main.py
 
